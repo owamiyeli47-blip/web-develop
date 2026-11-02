@@ -61,3 +61,13 @@ HTML5 / CSS3
   Hosted on GitHub Pages
 
 PROJECT STRUCTURE
+
+<?xml version="1.0" encoding= "UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+   <url><loc>https://your-site-url.netlify.app/index.html</loc><priority>1.0</priority></url>
+    <url><loc>https://your-site-url.netlify.app/about.html</loc><priority>0.8</priority></url>
+    <url><loc>https://your-site-url.netlify.app/contact us.html</loc><priority>0.8</priority></url>
+    <url><loc>https://your-site-url.netlify.app/home.html</loc><priority>0.9</priority></url>
+    <url><loc>https://your-site-url.netlify.app/products.html</loc><priority>0.9</priority></url>
+    <url><loc>https://your-site-url.netlify.app/product prices.html</loc><priority>1.0</priority></url>
+</urlset>

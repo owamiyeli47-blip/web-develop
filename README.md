@@ -30,3 +30,34 @@ Desired Functionality:
  5. Instagram feed integration to show latest drops
  6. Responsive design for mobile-first shopping
 <br>
+
+SAINT PRIMITIVE CLOTHING
+> God Is In 704 — We Just Make The Uniform.
+
+Saint Primitive is a faith-rooted streetwear brand. Oversized, heavyweight, raw and holy. Founded in Charlotte (704) with roots in Durban, SA.
+
+Live: `owamiyeli47-blip/web-develop`
+
+---
+
+BRAND CODE
+S|P = Saint | Primitive
+  704 = Charlotte area code — home
+  Blood Drop = Sacrifice, not horror. Something was paid for.
+  Arch Logo = Halo over the streets
+
+ PAGES
+Home.html — Hero, new drops
+  About Us.html — Brand story / manifesto
+  Product.html — Shop (God Is In 704 Tees, Arch Tees)
+  Price.html — Pricing (R350 - R500)
+  Contact.html — Contact + socials
+  enquiry.html — Customer enquiry form
+
+ TECH STACK
+HTML5 / CSS3
+  No framework — pure street, pure code
+  Responsive, mobile-first
+  Hosted on GitHub Pages
+
+PROJECT STRUCTURE
